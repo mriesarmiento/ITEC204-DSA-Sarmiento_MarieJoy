@@ -3,7 +3,7 @@
 ### STUDENT & COURSE INFORMATION
 
 - **Name:** Marie Joy M. Sarmiento
-- **Course & Section:** BSIT 2A
+- **Course & Section:** Bachelor of Science in Information Technology - 2A
 - **Institution:** Laguna State Polytechnic University (LSPU) - College of Computer Studies
 - **Instructor:** Ms. Maxyne Ignacio
 
