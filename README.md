@@ -1,6 +1,6 @@
 # ITEC204-DSA-Sarmiento_MarieJoy
 
-## STUDENT & COURSE INFORMATION
+### STUDENT & COURSE INFORMATION
 
 - **Name:** Marie Joy M. Sarmiento
 - **Course & Section:** BSIT 2A
